@@ -1,0 +1,12 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Resume"
+    url: /files/resume.pdf
+
+  - title: "LinkedIn"
+    url: https://www.linkedin.com/in/selbeyhan/
+
+  - title: "CS @ UH"
+    url: https://cs.uh.edu
